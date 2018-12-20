@@ -1,2 +1,7 @@
-# project_euler_scripts
-This is a collection of scripts to solve tasks from "projecteuler.net". SPOILER-ALERT - The scripts contains solutions of the tasks. Please be fair and solve the tasks on your own before looking.
+-------------------------
+# Project Euler - Scripts
+-------------------------
+
+This is a private collection of scripts to solve problems from [Project Euler](https://projecteuler.net "https://projecteuler.net").
+
+**!!!SPOILER-ALERT!!!** The scripts contains solutions to solve the problems. Please be fair and solve the problems on your own before looking.
